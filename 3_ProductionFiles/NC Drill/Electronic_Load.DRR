@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Electronic_Load.PcbDoc   11/3/2025  15:57:02
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Electronic_Load.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             761       PTH        85.61inch (2174.47mm)
+T2      20mil (0.5mm)                                             Round             9         PTH        1.71inch (43.43mm)
+T3      39mil (1.001mm)                                           Round             15        PTH        12.87inch (326.97mm)
+T4      47mil (1.199mm)                                           Round             4         PTH        0.63inch (16.10mm)
+T5      55mil (1.4mm)                                             Round             4         PTH        0.85inch (21.54mm)
+T6      67mil (1.699mm)                                           Round             18        PTH        7.35inch (186.65mm)
+T7      126mil (3.2mm)                                            Round             2         PTH        0.39inch (9.97mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              813
+
+Total Processing Time (hh:mm:ss) : 00:00:01
